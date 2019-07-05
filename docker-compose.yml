@@ -33,4 +33,4 @@ services:
     ports:
       - 7002:80
     external_links:
-      - 'api-mocker-client'
+      - 'api-mocker-server'
